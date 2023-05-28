@@ -1,1 +1,1 @@
-# sinatayebati2.github.io
+# sinatayebati.github.io
