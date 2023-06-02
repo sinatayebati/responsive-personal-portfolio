@@ -790,8 +790,8 @@ li {
   right: -.5rem;
 }
 
-.swiper-container-horizontal > .swiper-pagination-bullets{
-  bottom: ;
+.mySwiper > .swiper-pagination-bullets{
+  bottom: -2.5rem;
 }
 
 /*==================== PROJECT IN MIND ====================*/
