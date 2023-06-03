@@ -809,7 +809,7 @@ li {
   text-align: center;
 }
 
-.project_bg{
+.project__bg{
   background-color: var(--first-color-second);
   padding-top: 3rem;
 }
