@@ -794,8 +794,25 @@ li {
   bottom: -2.5rem;
 }
 
-/*==================== PROJECT IN MIND ====================*/
+.swiper-pagination-bullet-active{
+  background-color: var(--first-color);
+}
 
+.swiper-button-prev,
+.swiper-button-next,
+.swiper-pagination-bullets{
+  outline: none;
+}
+
+/*==================== PROJECT IN MIND ====================*/
+.project{
+  text-align: center;
+}
+
+.project_bg{
+  background-color: var(--first-color-second);
+  padding-top: 3rem;
+}
 
 /*==================== TESTIMONIAL ====================*/
 
