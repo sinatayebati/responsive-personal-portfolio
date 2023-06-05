@@ -296,12 +296,14 @@ img {
 }
 
 .home__blob{
-  width: 200px;
+  /* width: 200px; */
+  width: 220px;
   fill: var(--first-color);
 }
 
 .home__blob-img{
-  width: 195px;
+  /* width: 195px */
+  width: 467px;
 }
 
 .home__data{
