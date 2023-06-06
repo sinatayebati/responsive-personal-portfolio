@@ -1267,6 +1267,7 @@ li {
   .portfolio__content{
     column-gap: 5rem;
   }
+
   .publication{
     max-width: 900px;
     margin-left: auto;
