@@ -528,30 +528,38 @@ img {
 }
 
 .skills__html{
-  width: 65%;
+  width: 80%;
 }
 
 .skills__css{
-  width: 50%;
+  width: 80%;
 }
 
 .skills__javascript{
-  width: 40%;
+  width: 60%;
 }
 
 .skills__react{
-  width: 35%;
+  width: 50%;
 }
 
 .skills__python{
   width: 85%;
 }
 
-.skills__sql{
-  width: 25%;
+.skills__node{
+  width: 30%;
 }
 
-.skills__flask{
+.skills__express{
+  width: 30%;
+}
+
+.skills__mongo{
+  width: 30%;
+}
+
+.skills__sql{
   width: 25%;
 }
 
