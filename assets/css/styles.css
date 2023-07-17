@@ -7,10 +7,10 @@
 
     /*========== Colors ==========*/
     /* Change favorite color */
-    --hue-color: 230; /*Purple 250 - Green 142 - Blue 230 - Pink 340*/
+    --hue-color: 210; /*Purple 250 - Green 142 - Blue 230 - Pink 340*/
 
     /* HSL color mode */
-    --first-color: hsl(var(--hue-color), 67%, 56%);
+    --first-color: hsl(var(--hue-color), 67%, 45%);
     --first-color-second: hsl(var(--hue-color), 69%, 61%);
     --first-color-alt: hsl(var(--hue-color), 57%, 53%);
     --first-color-lighter: hsl(var(--hue-color), 92%, 85%);
@@ -1191,8 +1191,15 @@ li {
     .qualification__sections{
       grid-template-columns: .5fr;
     }
+
+    .publication{
+      max-width: 800px;
+      margin-left: auto;
+      margin-right: auto;
+    }
+
     .services__container{
-      grid-template-columns: repeat(3, 218px);
+      grid-template-columns: repeat(3, 250px);
       justify-content: center;
     }
     .services__icon{
@@ -1264,12 +1271,12 @@ li {
   }
 
   .publication{
-    max-width: 800px;
+    max-width: 900px;
     margin-left: auto;
     margin-right: auto;
   }
   .services__container{
-    grid-template-columns: repeat(3, 250px);
+    grid-template-columns: repeat(3, 280px);
     justify-content: center;
   }
   .services__content{
@@ -1343,6 +1350,12 @@ li {
 
   .publication{
     max-width: 800px;
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+  .publication{
+    max-width: 900px;
     margin-left: auto;
     margin-right: auto;
   }
