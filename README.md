@@ -1,12 +1,15 @@
 
-# Sina's personal website theme - <a href="https://sinatayebati.github.io/">Demo</a>
+# Responsive Personal Portfoliox - <a href="https://sinatayebati.github.io/responsive-personal-portfolio/">Demo</a>
 
 - This is a minimal theme for building single page personal portfolio websites built with HTML, CSS, JS.
 - This website is seamlessly integrated with <a href="https://formspree.io/">Formspree</a>, a Form Submission service enabling users to submit inquiries directly from the website without the hassle of sending emails.
 
 <p align="center">
-    <img src="assets/img/demo.png"
-    width = 400px
+    <img src="assets/img/demo1.png"
+    width = 250px
+    >
+    <img src="assets/img/demo2.png"
+    width = 250px
     >
 </p>
 
